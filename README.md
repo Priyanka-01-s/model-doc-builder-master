@@ -1,4 +1,15 @@
-#Model Document Generator
+<h1>Model Document Generator</h1>
+
+![image](https://user-images.githubusercontent.com/78321696/227716412-2721e2a2-d4eb-4b35-978f-b8ebf926f33c.png)
+
+
+![image](https://user-images.githubusercontent.com/78321696/227716417-fcab02f2-266e-4419-9a1a-b50e4160a77c.png)
+
+
+![image](https://user-images.githubusercontent.com/78321696/227716435-5304f7bf-c0f9-428d-9e5a-7eef7f2f8491.png)
+
+![image](https://user-images.githubusercontent.com/78321696/227716455-407a8a73-e4ec-4970-9453-75980d66e6ae.png)
+
 This program is designed to read a CSV file and generate a model document that includes a graph of the data as well as general information and model-specific information.
 
 Installation
