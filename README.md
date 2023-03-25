@@ -12,25 +12,28 @@
 
 This program is designed to read a CSV file and generate a model document that includes a graph of the data as well as general information and model-specific information.
 
-Installation
+<h3>Installation</h3>
 This program requires Python 3.7 or higher. You can install the necessary packages by running the following command:
 
 Copy code
-pip install pandas plotly
-Usage
+```pip install pandas plotly```
+
+<h3>Usage</h3>
 To use this program, run the following command:
 
 bash
 Copy code
-python model_document_generator.py [path/to/csv/file]
+```python model_document_generator.py [path/to/csv/file]```
+
 Replace [path/to/csv/file] with the path to your CSV file.
 
-General Information
+</h3>General Information</h3>
 The program will prompt you to provide some general information about the model, including:
 
+
 Name
-Author
-Date
+Website
+Email
 Description
 Model-Specific Information
 The program will also prompt you to provide some model-specific information, including:
