@@ -30,23 +30,16 @@ Replace [path/to/csv/file] with the path to your CSV file.
 </h3>General Information</h3>
 The program will prompt you to provide some general information about the model, including:
 
+<ul>
+<li>me</li>
+<li>Website</li>
+  <li>Email</li>
+  <li>Phone number</li>
+</ul>
 
-Name
-Website
-Email
-Description
-Model-Specific Information
-The program will also prompt you to provide some model-specific information, including:
-
-Independent variable name
-Dependent variable name
-Model type
-Model parameters (if applicable)
-Output
-The program will generate a model document in HTML format. The document will include:
 
 General information
 Model-specific information
 Graph of the data using Plotly
-License
-This program is licensed under the MIT License. See the LICENSE file for more information.
+<footer>Data Dream Team<br><li>Priyanka</li><li>Ashutosh</li></footer>
+
